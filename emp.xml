@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="emp.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="emp.xsd">
+
+   <Employee>
+    <id>1</id>
+    <Emp-name>Rohit</Emp-name>
+    <Emp-age>52</Emp-age>
+    <Emp-salary>150000</Emp-salary>
+    <Emp-emailid>rohitp@gmail.com</Emp-emailid>
+    <Emp-Phonenum>9823080277</Emp-Phonenum>
+    <Emp-designation>Team Leader</Emp-designation>
+   </Employee>
+
+    <Employee>
+    <id>2</id>
+    <Emp-name>Jeetank</Emp-name>
+    <Emp-age>21</Emp-age>
+    <Emp-salary>60000</Emp-salary>
+    <Emp-emailid>jeetankn@gmail.com</Emp-emailid>
+    <Emp-Phonenum>9823080278</Emp-Phonenum>
+    <Emp-designation>Trainee</Emp-designation>
+   </Employee>
+
+    <Employee>
+    <id>3</id>
+    <Emp-name>Aakash</Emp-name>
+    <Emp-age>45</Emp-age>
+    <Emp-salary>80000</Emp-salary>
+    <Emp-emailid>aakashs@gmail.com</Emp-emailid>
+    <Emp-Phonenum>9823080276</Emp-Phonenum>
+    <Emp-designation>Manager</Emp-designation>
+   </Employee>
+
+  <Employee>
+    <id>4</id>
+    <Emp-name>Reuben</Emp-name>
+    <Emp-age>53</Emp-age>
+    <Emp-salary>200000</Emp-salary>
+    <Emp-emailid>reubenk@gmail.com</Emp-emailid>
+    <Emp-Phonenum>9823080271</Emp-Phonenum>
+    <Emp-designation>Senior Developer</Emp-designation>
+   </Employee>
+
+
+   
+
+</Company>
