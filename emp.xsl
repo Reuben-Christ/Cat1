@@ -3,8 +3,7 @@
 	<xsl:template match="/">
 		<html>
 			<body>
-				<h1 style="text-align:center">Employee Management System</h1>
-				<xsl:apply-templates select = "Company/Employee" /> 
+				<h1 style="text-align:center">Employee Management System</h1> 
 				<table border="2" align="center">
 					<tr>
 						<th>ID</th>
